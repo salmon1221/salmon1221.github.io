@@ -1,7 +1,7 @@
 title: "王文鱼自留地"
 author: "王文鱼"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
-permalink: /:title/
+permalink: /:categories/:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
@@ -10,7 +10,7 @@ date_format: "%B %d, %Y"
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
