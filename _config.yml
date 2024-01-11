@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", icon: home}
   # - {file: "README.md"}
   - {file: "archive.html", icon: archive}
+  - {file: "categories.html", icon: list}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:wangxt2467@gmail.com"}
