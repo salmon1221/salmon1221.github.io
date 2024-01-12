@@ -5,3 +5,5 @@
 Gemfile.lock
 _site
 *.gem
+*.plist
+*.gitignore
