@@ -102,12 +102,12 @@ author:
   name             : "王文鱼"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "宇宙尽头的水族馆"
+  location         : "不存在的水族馆"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:wangxt2467@email.com"
+      # url: "mailto:wangxt2467@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
