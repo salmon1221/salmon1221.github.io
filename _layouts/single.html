@@ -66,7 +66,14 @@ layout: default
     </div>
 
     {% if site.comments.provider and page.comments %}
-      {% include comments.html %}
+      {% if jekyll.environment == 'production' %}
+        {% include comments.html %}
+      {% else %}
+        <p>
+          Comments are configured with provider: <strong>{{ site.comments.provider }}</strong>,
+          but are disabled in non-production environments.
+        </p>
+      {% endif %}
     {% endif %}
   </article>
 
