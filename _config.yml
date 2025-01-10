@@ -45,7 +45,7 @@ comments:
     strict               : 0 # 1 for enabled, 0 for disabled (default)
     input_position       : "bottom" # "top", "bottom" # The comment input box will be placed above or below the comments
     emit_metadata        : 0 # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
-    lang                 : zh-CN # "en" (default)
+    lang                 : "zh-CN" # "en" (default)
     lazy                 : true # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
 reCaptcha:
   siteKey                :
