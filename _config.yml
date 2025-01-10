@@ -39,13 +39,13 @@ comments:
     repo_id              : "R_kgDOMguzuA" # Shown during giscus setup at https://giscus.app
     category_name        : "Blog Post Comments"# Full text name of the category
     category_id          : "DIC_kwDOMguzuM4Cl6pV" # Shown during giscus setup at https://giscus.app
-    discussion_term      : "pathname "# "pathname" (default), "url", "title", "og:title"
+    discussion_term      : "pathname"# "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : '1' # '1' for enabled (default), '0' for disabled
     theme                : "light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
     strict               : 0 # 1 for enabled, 0 for disabled (default)
     input_position       : "bottom" # "top", "bottom" # The comment input box will be placed above or below the comments
     emit_metadata        : 0 # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
-    lang                 : zh-CN# "en" (default)
+    lang                 : zh-CN # "en" (default)
     lazy                 : true # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
 reCaptcha:
   siteKey                :
