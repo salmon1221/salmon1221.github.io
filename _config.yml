@@ -36,7 +36,7 @@ copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : "giscus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
     giscus:
-      repo: "salmon1221/salmon1221.github.io"
+      repo                 : "salmon1221/salmon1221.github.io"
       repo_id              : "R_kgDOMguzuA" # Shown during giscus setup at https://giscus.app
       category_name        : "Blog Post Comments" # Full text name of the category
       category_id          : "DIC_kwDOMguzuM4Cl6pV" # Shown during giscus setup at https://giscus.app
