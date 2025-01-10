@@ -5,7 +5,7 @@ sitemap: false
 classes: wide
 sidebar:
   nav: "site_sidebar"
-permalink: /404/
+permalink: /about
 layout: single
 ---
 
