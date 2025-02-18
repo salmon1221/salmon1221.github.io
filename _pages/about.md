@@ -1,12 +1,13 @@
 ---
-title: "About me"
-excerpt: "a little about me "
+title: "关于"
+excerpt: "王文鱼"
 sitemap: false
 classes: wide
 sidebar:
-  nav: "site_sidebar"
+  nav: "site\_sidebar"
 permalink: /about/
 layout: single
 ---
-
-just write something to test
+中文名: 王文鱼
+深　度: 没有观测记录
+描　述:
