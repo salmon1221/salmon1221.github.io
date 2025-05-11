@@ -8,6 +8,6 @@ sidebar:
 permalink: /about/
 layout: single
 ---
-中文名: 王文鱼
-深　度: 没有观测记录
-描　述:
+中文名: 王文鱼    
+深　度: 没有观测记录  
+描　述: 幻想生物  
