@@ -1,6 +1,6 @@
 ---
-title: "年度目录"
-permalink: /year-archive/
+title: "文章目录"
+permalink: /posts/
 layout: posts
 author_profile: false
 classes: wide
