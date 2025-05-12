@@ -101,13 +101,13 @@ analytics:
 author:
   name             : "王文鱼"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "幻想生物的生存纪录"
   location         : "不存在的水族馆"
-  email            : "salmon10247[at]gmail.com"
+  email            : "salmon10247@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:wangxt2467@email.com"
+      url:  "mailto:salmon10247@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
