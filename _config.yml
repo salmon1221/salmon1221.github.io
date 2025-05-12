@@ -103,7 +103,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "幻想生物的生存纪录"
   location         : "不存在的水族馆"
-  email            : "salmon10247@gmail.com"
+  email            : "salmon10247[at]gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -129,7 +129,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url:  "mailto:salmon10247@gmail.com"
+      url:  "mailto:salmon10247[at]gmail.com"
     
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
