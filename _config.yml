@@ -103,7 +103,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "不存在的水族馆"
-  email            :
+  email            : "salmon10247[at]gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -212,7 +212,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
