@@ -51,9 +51,10 @@ comments:
 reCaptcha:
   siteKey                :
   secret                 :
-atom_feed:
+feed: # try
   path                   : # blank (default) uses feed.xml
   hide                   : false # true, false (default)
+  excerpt_only           : true
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default), algolia, google
