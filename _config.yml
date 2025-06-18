@@ -53,7 +53,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : false # true, false (default)
+  hide                   : true # true, false (default)
+  excerpt_only           : true # not sure if that works, just try it
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default), algolia, google
