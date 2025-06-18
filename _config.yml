@@ -52,9 +52,9 @@ reCaptcha:
   siteKey                :
   secret                 :
 feed: # try
+  excerpt_only           : true
   path                   : # blank (default) uses feed.xml
   hide                   : false # true, false (default)
-  excerpt_only           : true
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default), algolia, google
