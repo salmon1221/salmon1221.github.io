@@ -106,7 +106,9 @@ body {
 		}
 	}
 
-  p,
+  p {
+    line-height: 1.6;
+  }
   li,
   dl {
     font-size: 1em;
