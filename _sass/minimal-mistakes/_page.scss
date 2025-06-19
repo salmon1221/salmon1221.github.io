@@ -84,6 +84,8 @@ body {
 }
 
 .page__content {
+  line-height: 1.5;
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
@@ -106,9 +108,7 @@ body {
 		}
 	}
 
-  p {
-    line-height: 2;
-  }
+  p,
   li,
   dl {
     font-size: 1em;
